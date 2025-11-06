@@ -1,4 +1,4 @@
-# Prep-d-AI// Prep'd AI - Starter Code v2
+// Prep'd AI - Starter Code v2
 // To run:
 // 1. Save this entire block as App.tsx in your Expo project.
 // 2. Place your logo image as ./assets/prepd_logo.png
